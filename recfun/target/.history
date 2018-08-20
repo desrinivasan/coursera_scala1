@@ -1,0 +1,58 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /private/var/folders/l7/yk10ms2x3j9g97rqlrbjmd6038yzpr/T/sbt-structure.xml; session clear-all
+all {file:/Users/desrinivasan/Documents/coursera_scala/recfun/}root/products {file:/Users/desrinivasan/Documents/coursera_scala/recfun/}root/test:products
+test
+compile
+testOnly PascalSuite
+PascalSuite
+tests
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+tests
+test
+compile
+test
+console
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+submit deepika.87@gmail.com GtxE6xvwvJtUXLx6
+compile
+test
+compile
+test
+submit deepika.87@gmail.com GtxE6xvwvJtUXLx6
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
+compile
+test
